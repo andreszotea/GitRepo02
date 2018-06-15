@@ -8,6 +8,10 @@
 
 
   <asp:Button ID="Button2" runat="server" Text="Button" />
+  
 
 
+    <asp:Button ID="Button3" runat="server" Text="Button" />
+
+    <asp:Button ID="Button4" runat="server" Text="Button" />
 </asp:Content>
